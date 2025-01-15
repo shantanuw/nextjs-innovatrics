@@ -9,6 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@innovatrics/dot-auto-capture-ui": "7.0.0",
+    "@innovatrics/dot-document-auto-capture": "7.0.0",
+    "@innovatrics/dot-face-auto-capture": "7.0.0",
+    "@innovatrics/dot-magnifeye-liveness": "7.0.0",
+    "@innovatrics/dot-smile-liveness": "7.0.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "next": "15.1.4"
